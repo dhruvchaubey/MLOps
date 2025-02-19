@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/835502128079299913/f1dd946a8ab74c7fad9152645d0a0412/artifacts
+end_time: 1739987021520
+entry_point_name: ''
+experiment_id: '835502128079299913'
+lifecycle_stage: active
+run_id: f1dd946a8ab74c7fad9152645d0a0412
+run_name: tasteful-whale-442
+run_uuid: f1dd946a8ab74c7fad9152645d0a0412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739987021470
+status: 3
+tags: []
+user_id: codespace

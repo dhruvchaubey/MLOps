@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/835502128079299913/ecc12552ac3143abbb3ae06cdf591d0f/artifacts
+end_time: 1739986765501
+entry_point_name: ''
+experiment_id: '835502128079299913'
+lifecycle_stage: active
+run_id: ecc12552ac3143abbb3ae06cdf591d0f
+run_name: rogue-newt-854
+run_uuid: ecc12552ac3143abbb3ae06cdf591d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739986765480
+status: 4
+tags: []
+user_id: codespace
