@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/822217324950129542/e4dafdb4b9654844a110b3b3f2342eaf/artifacts
+end_time: 1739990964444
+entry_point_name: ''
+experiment_id: '822217324950129542'
+lifecycle_stage: active
+run_id: e4dafdb4b9654844a110b3b3f2342eaf
+run_name: crawling-dolphin-375
+run_uuid: e4dafdb4b9654844a110b3b3f2342eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739990960179
+status: 3
+tags: []
+user_id: codespace
